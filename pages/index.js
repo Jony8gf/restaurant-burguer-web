@@ -107,7 +107,7 @@ export default function Home() {
 
             {/* //Hamburguesa 1 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -115,7 +115,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-1.png" alt="hamburguesa" className="col-span-2 my-4" height="55" width="55" />
@@ -135,7 +135,7 @@ export default function Home() {
 
             {/* //Hamburguesa 2 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -143,7 +143,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-1.png" alt="hamburguesa" className="col-span-2 my-4" height="55" width="55" />
@@ -164,7 +164,7 @@ export default function Home() {
 
             {/* //Hamburguesa 3 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -172,7 +172,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-1.png" alt="hamburguesa" className="col-span-2 my-4" height="55" width="55" />
@@ -193,7 +193,7 @@ export default function Home() {
 
             {/* //Hamburguesa 4 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -201,7 +201,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-1.png" alt="hamburguesa" className="col-span-2 my-4" height="55" width="55" />
@@ -222,7 +222,7 @@ export default function Home() {
 
             {/* //Hamburguesa 5 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -230,7 +230,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-1.png" alt="hamburguesa" className="col-span-2 my-4" height="55" width="55" />
@@ -251,7 +251,7 @@ export default function Home() {
 
             {/* //Pizza 1 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -259,7 +259,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-2.png" alt="pizza" className="col-span-2 my-4" height="55" width="55" />
@@ -279,7 +279,7 @@ export default function Home() {
 
             {/* //Pizza 2 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -287,7 +287,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-2.png" alt="pizza" className="col-span-2 my-4" height="55" width="55" />
@@ -307,7 +307,7 @@ export default function Home() {
 
             {/* //Pizza 3 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -315,7 +315,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-2.png" alt="pizza" className="col-span-2 my-4" height="55" width="55" />
@@ -336,7 +336,7 @@ export default function Home() {
 
             {/* //Helado 1 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -344,7 +344,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center'>
                     <Image src="/img/s-3.png" alt="pizza" className="col-span-2 my-4" height="55" width="55" />
@@ -364,7 +364,7 @@ export default function Home() {
 
             {/* //Helado 2 */}
             <div className="inline-block w-60 mt-4">
-              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl skew-x-3 justify-center ">
+              <div className="img-container h-56 w-52 overflow-hidden inline-block rounded-lg rounded-b-3xl ml-1 skew-x-3 justify-center ">
                 <div className="img-inner ml-4">
                   <div className="inner-skew inline-block rounded-2xl overflow-hidden ">
 
@@ -372,7 +372,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="text-container flex-col items-center justify-center text-center -mt-32 rounded-md border-2">
+              <div className="text-container flex-col items-center justify-center text-center -mt-28 rounded-md border-2">
                 <div className='mt-24'>
                   <div className='w-auto flex justify-center' >
                     <Image src="/img/s-3.png" alt="pizza" className="col-span-2 my-4" height="55" width="55" />
